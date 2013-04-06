@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'DreamingNews' target in the 'DreamingNews' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <RestKit/RestKit.h>
+#import "GlobalDef.h"
+#import "DreamingAPI.h"
+#import "StringUtils.h"
+#endif
