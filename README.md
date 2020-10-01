@@ -1,7 +1,11 @@
+-------------READ ME-------------
+Hello
+Hpe you enjoy the Game !
+
 Introduction
 =========================
 
-iOS Game Video App compatible with iPhone and iPad.
+My iOS Game Video App is compatible with both iPhone and iPad.
 Feature:
 Restful API Service and Service API Ready to Use/
 Restkit / umeng / QQ and Weibo login / Client Cache /
